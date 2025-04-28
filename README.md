@@ -13,9 +13,13 @@ This project was developed as a capstone project by **Shashi Kumar**  at *Bennet
 diabetes-detector-for-women/
 │
 ├── app.py                  # Main Flask application
+
 ├── templates/
+
 │   └── index.html          # HTML template for the web interface
+
 ├── README.md               # Project documentation
+
 └── requirements.txt        # Python dependencies
 
 ## Features
@@ -41,11 +45,17 @@ diabetes-detector-for-women/
 
 ## Future Enhancements
 -Machine Learning: Integrate models like Logistic Regression using Pima Indians Diabetes Database.
+
 -User Profiles: Add authentication for tracking health history.
+
 -Mobile App: Develop using Flutter or React Native.
+
 -Wearable Integration: Use real-time data from devices.
+
 -Education: Offer diet and exercise tips.
+
 -Multilingual Support: Enhance global accessibility.
+
 -Security: Implement GDPR/HIPAA compliance.
  
 
